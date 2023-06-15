@@ -4,7 +4,7 @@ scope: user
 manifests:
   - name: Obsidian
     version: 1.0.0
-    publisher: Obsidian
+    publisher: MyCompany
     installer:
-      url: https://github.com/obsidianmd/obsidian-releases/releases/download/v1.0.0/Obsidian.1.0.0.exe
-      sha256: 0E8D7E3832FC0B677123F8D5CA7209A90D515B942FE9D9A26E67651C03208664
+      url: https://github.com/JoshuaAndersonRusk/winget-pkgs/raw/master/manifests/o/Obsidian/Obsidian/1.0.0/Obsidian.Obsidian.1.0.0.nupkg
+      sha256: 6b1c2c4d7d6d7f6d7d6f7d6d7d6f7d6d7f6d7d6f7d6d7f6d7d6f7d6d7f6d7d6d
